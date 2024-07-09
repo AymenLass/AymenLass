@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=AymenLass)
+![](https://komarev.com/ghpvc/?username=AymenLass&color=yellow)
 
 <!--
 **AymenLass/AymenLass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
